@@ -1,6 +1,25 @@
 
 # shawnjbragdon's GameSense Rewritten
 
-Thank you for taking a look at **GameSense Rewritten**, I've spent a good portion of time contributing to this script on behalf of myself and the community surrounding it. You're currently on the main repository for this script. Make sure you update your loadstring file! The old repository will be deleted soon.
+Welcome to the GameSense Rewritten repository.
 
-If you have questions, feel free to join the Discord server at <https://discord.gg/JcwMtcgff7> or add my account on Discord at **shawnjbragdon#0001**.
+## Features
+![Aim Assistance UI](/img/showcase-ref1.png)
+* Aim Assistance
+    * Sensitivity
+    * Field Of View
+    * Drop Prediction
+* Extra Sensory Perception (ESP)
+    * Line Tracers
+    * Bounding Boxes
+    * Chameleon
+* Visibility Check
+* Configuration File
+* Toggle UI Visiblity
+
+## Social
+* **Discord**: shawnjbragdon#0001 & <https://discord.gg/afSxatJjTg>
+* **V3rmillion**: [shawnjbragdon](https://v3rmillion.net/member.php?action=profile&uid=1870134) & [Avexus](https://v3rmillion.net/member.php?action=profile&uid=136113)
+* **GitHub**: <https://github.com/shawnjbragdon-0>
+
+Special thanks to the [community discord server](https://discord.gg/afSxatJjTg) for suggestions & bug reporting to make this script the best it can be.
