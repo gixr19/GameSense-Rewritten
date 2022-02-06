@@ -4,7 +4,7 @@
 Welcome to the GameSense Rewritten repository.
 
 ## Features
-![Aim Assistance UI](/img/showcase-ref1.png)
+
 * Aim Assistance
     * Sensitivity
     * Field Of View
@@ -14,8 +14,17 @@ Welcome to the GameSense Rewritten repository.
     * Bounding Boxes
     * Chameleon
 * Visibility Check
+
+![UI & ESP](/img/showcase-ref1.png)
+
 * Configuration File
+
+![Configuration](/img/showcase-ref3.png)
+
 * Toggle UI Visiblity
+* Simple Notifications
+
+![Notifications](/img/showcase-ref2.png)
 
 ## Social
 * **Discord**: shawnjbragdon#0001 & <https://discord.gg/afSxatJjTg>
